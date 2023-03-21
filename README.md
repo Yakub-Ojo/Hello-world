@@ -27,8 +27,6 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
   <h3><b>Microverse README Template</b></h3>
 
@@ -62,55 +60,38 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello-Microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
-**[Hello-Microverse]** is a...
+**[Hello-Microverse]** is my first project in microverse where i implement some HTML and CSS requirement
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> html, css
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="#">HTML</a></li>
+    <li><a href="#">CSS</a></li>
   </ul>
 </details>
 
 <!-- Features -->
 
+
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[HTML boilerplate]**
+- **[CSS styling]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> https://yakub-ojo.github.io/Hello-world/
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://yakub-ojo.github.io/Hello-world/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,83 +99,54 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+`npm install`
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
+```cd my-folder```
 
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+
+```git clone git@github.com:Yakub-Ojo/Hello-world.git```
+
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
+`cd my-project`
 
-```sh
-  cd my-project
-  gem install
-```
---->
+`npm install`
+
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
+`live server`
 
-```sh
-  rails server
-```
---->
+`npm start`
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
+`npm install --save-dev hint@7.x`
 
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+`npx stylelint "**/*.{css,scss}"`
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
-Example:
-
-```sh
-
-```
- -->
+`github pages`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -202,19 +154,13 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- GitHub: [@githubhandle](https://github.com/Yakub-Ojo)
+- Twitter: [@twitterhandle](https://twitter.com/Yakubojodev)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
